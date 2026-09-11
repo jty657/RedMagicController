@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RedMagic Controller</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="scan">Scan</string>
+    <string name="status">Status</string>
+    <string name="fan_control">Fan Control</string>
+    <string name="light_control">Light Control</string>
+    <string name="manual_level">Manual Level</string>
+    <string name="smart_mode">Smart Mode</string>
+    <string name="boost_mode">Boost Mode</string>
+    <string name="power_off">Power Off</string>
+    <string name="apply">Apply</string>
+    <string name="led_select">Select LED</string>
+    <string name="all_off">All Off</string>
+    <string name="send_rgb">Send RGB</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="connecting">Connecting…</string>
+    <string name="connected">Connected</string>
+    <string name="scanning">Scanning for devices…</string>
+</resources>
